@@ -17,6 +17,10 @@
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
+!Assets/
+!ProjectSettings/
+!Packages/
+
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
